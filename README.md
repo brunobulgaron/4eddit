@@ -1,6 +1,8 @@
 # 4eddit
 ![logo](src/img/logo.png)
 
+[Deploy](https://fouredditbruno.web.app/)
+
 ## About
 When we were learning how to use ReactJS at Labenu (former Future4), we've had a Front-End assignment of creating a basic version of a social network based on Reddit, and so it was born 4eddit.
 
